@@ -1,0 +1,6 @@
+@_240822_Övning___SkapaApiFörTasks_HostAddress = http://localhost:5179
+
+GET {{_240822_Övning___SkapaApiFörTasks_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
